@@ -1,0 +1,6 @@
+---
+services:
+ docker-compose:
+  image: deployment
+  ports:
+   - "2333:80"
