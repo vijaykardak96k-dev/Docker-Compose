@@ -1,6 +1,6 @@
 ---
 services:
  docker-compose:
-  image: deployment
+  image: vijaykardak96k-dev/compose
   ports:
    - "2333:80"
